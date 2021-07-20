@@ -1,1 +1,1 @@
-php-source-chat-discord
+This application reads chat messages from a MySQL database and posts them into specified Discord channels as a chat bridge mainly for Game Servers.
